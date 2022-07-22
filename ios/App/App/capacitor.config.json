@@ -1,0 +1,6 @@
+{
+	"appId": "com.commutecart.user.app",
+	"appName": "Book My Driver",
+	"webDir": "dist/commute-cart-user",
+	"bundledWebRuntime": false
+}
